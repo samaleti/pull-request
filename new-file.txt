@@ -1,1 +1,17 @@
+1. Tracking: We can track - who all modified/added/delete/appended the files - Name/Email
+                          - Track the modified date & time and size
+                          - which line/word/sentence was modified/added/delete/appended inside the file.
 
+2. Storage cost optimization: 
+
+eg: Developers are working on Ecommerce website:
+
+DAY-1: login.java -> 1 GB data -> build, executed, tested -> working file and stable
+       SHA(secure hashing algorithm) mechanism -> random unique ID -> commitID 
+       CommitID -> hexa decimal code -> xjd9b2bc9h2bc92b02xj8n 
+       CommitID -> record the changes done inside the files/directories.
+
+DAY-2: login.java  -> 10 GB data -> build, executed, tested -> working file and stable
+       SHA(secure hashing algorithm) mechanism -> random unique ID -> commitID 
+       CommitID -> hexa decimal code -> vcjsdn8b1ik0hd0cnbdd
+       CommitID -> record the changes done inside the files/directories.
