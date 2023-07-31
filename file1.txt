@@ -1,0 +1,15 @@
+Centralized VCS - Clearcase/SVN
+
+->  Internet is must  to connect to main/central server
+->  Original file is accessed and modified
+->  parallely users cannot work bec files will have lock on it when some users edit that file untill they save that file.
+->  License cost
+->  some one deletes that file, we lost the content.
+
+
+2. Distributed VCS - Git/Github, Bitbucket
+->  Internet is required to download and upload only to connect to main/central server, people can work offline for editing files.
+->  Original file is downloaded and modified.
+->  Parallely people work, bec they are download copy in local
+->  No License cost, open source(subscription)
+->  some one deletes that file in local, we dont have any impact on main server.
